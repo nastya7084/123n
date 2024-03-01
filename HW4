@@ -1,6 +1,6 @@
 print("my name is my_name")
 
-my_name = "Liza"
+my_name = "Nastya"
 
 print("my name is", me_name) 
 
