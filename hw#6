@@ -3,7 +3,7 @@ def is_pelindrome(word):
 
 word = input("dad: ")
 
-if is_palindrome(word):
+if "is_palindrome" (word):
     print("dad.")
 else:
     print("mother.")
