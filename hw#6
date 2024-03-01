@@ -1,0 +1,9 @@
+def is_pelindrome(word):
+    return word == word[ :: -1]
+
+word = input("dad: ")
+
+if is_palindrome(word):
+    print("dad.")
+else:
+    print("mother.")
